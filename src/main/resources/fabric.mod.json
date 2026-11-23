@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "flightboots",
+  "version": "${version}",
+  "name": "Flying shoes!",
+  "description": "A simple and vanilla-friendly flight mod with intuitive mechanics and sensible, balanced crafting.",
+  "authors": [
+    "Skyy"
+  ],
+  "license": "MIT",
+  "icon": "assets/flightboots/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.flightboots.FlightBootsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "~${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

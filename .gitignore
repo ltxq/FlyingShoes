@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+bin/
+
+# Loom
+run/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+test_*.png
+opt_*.png
+wing_*.png

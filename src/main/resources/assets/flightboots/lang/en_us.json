@@ -1,0 +1,6 @@
+{
+  "item.flightboots.flight_boots": "Flying shoes!",
+  "tooltip.flightboots.tier": "Tier %s",
+  "tooltip.flightboots.tier1_desc": "50% Speed - 1 dur/s",
+  "tooltip.flightboots.tier2_desc": "100% Speed - 30% Durability Save"
+}

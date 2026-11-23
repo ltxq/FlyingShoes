@@ -1,0 +1,6 @@
+{
+  "item.flightboots.flight_boots": "รองเท้าติดปีก (Flight Boots)",
+  "tooltip.flightboots.tier": "ระดับ %s",
+  "tooltip.flightboots.tier1_desc": "บินโหมด Creative (ความเร็ว 50%) - ลดความทนทาน 1 หน่วย/วิ",
+  "tooltip.flightboots.tier2_desc": "บินโหมด Creative (ความเร็ว 100%) - มีโอกาส 30% ไม่เสียความทนทาน"
+}
